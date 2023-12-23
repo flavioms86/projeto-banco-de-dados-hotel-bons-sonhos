@@ -5,3 +5,7 @@
 ## Estudo de Caso
 
 [Hotel Bons Sonhos](./01-Projeto/Estudo_de_caso.md)
+
+## Implantação
+
+[Configurações e Boas Práticas](./02-Implantação/Configuração_e_boas_praticas.md)
