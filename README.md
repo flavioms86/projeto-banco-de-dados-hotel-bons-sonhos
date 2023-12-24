@@ -9,3 +9,7 @@
 ## Implantação
 
 [Configurações e Boas Práticas](./02-Implantação/Configuração_e_boas_praticas.md)
+
+[Modelo banco de dados](./02-Implantação/Modelo_banco_de_dados.md)
+
+[Usuários do banco de dados](./02-Implantação/Usuario_banco_de_dados.md)

@@ -35,3 +35,11 @@
 -   Com isso, caso haja alteração de endereço e IP do servidor, não será necessário reconfigurar a aplicação para se conectar ao novo IP.
 
 ### Boas práticas iniciais pós instalação
+
+-   Foi definido um novo login de usuário para acesso a instância do banco de dados com poderes de administrador e o login padrão SA será desativado.
+
+-   O uso máximo de memória pela instância foi configurado para usar 6GB (6.144MB) iniciais. Quea principio atenderá as necessidades iniciais do projeto.
+
+-   Para valores de paralelismo, será utilizado 2 cpus para processamento paralelo com custo de 35 incialmente.
+
+[Voltar](../README.md)

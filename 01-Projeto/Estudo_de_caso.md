@@ -29,3 +29,5 @@
 #### Collate
 
 -   Latin1_General_CI_AI - Não faz diferença entre maiúsculas e mimúsculas e acentuação.
+
+[Voltar](../README.md)

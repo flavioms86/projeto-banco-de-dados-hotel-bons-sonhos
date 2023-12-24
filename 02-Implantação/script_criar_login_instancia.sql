@@ -1,0 +1,7 @@
+USE [master]
+GO
+CREATE LOGIN [usr_Sistema] WITH PASSWORD=N'senhaSegura', 
+DEFAULT_DATABASE=[db_sistema_hotelbs], 
+DEFAULT_LANGUAGE=[us_english], 
+CHECK_EXPIRATION=OFF, CHECK_POLICY=OFF
+GO
