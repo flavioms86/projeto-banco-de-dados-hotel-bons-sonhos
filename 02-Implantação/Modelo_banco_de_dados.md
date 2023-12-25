@@ -28,6 +28,8 @@ O tamanho inicial do arquivo de dados e de log foram assim definidos para um mel
     -   Nivel de compatibilidade padrão (2017);
     -   Atualização de estatisticas padrão.
 
-[Script](script_criar_banco_de_dados.sql)
+[Script criar banco de dados](script_criar_banco_de_dados.sql)
+
+[Script criar tabelas](./script_tabelas.sql)
 
 [Voltar](../README.md)
