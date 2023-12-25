@@ -32,4 +32,6 @@ O tamanho inicial do arquivo de dados e de log foram assim definidos para um mel
 
 [Script criar tabelas](./script_tabelas.sql)
 
+[Script seed banco de dados](./script_seed.sql)
+
 [Voltar](../README.md)
