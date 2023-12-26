@@ -1,0 +1,1 @@
+-- Script será fornecido mediante solicitação do recrutador para análise.
