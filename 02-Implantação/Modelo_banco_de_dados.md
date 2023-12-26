@@ -34,4 +34,6 @@ O tamanho inicial do arquivo de dados e de log foram assim definidos para um mel
 
 [Script seed banco de dados](./script_seed.sql)
 
+[Diagrama do banco de dados](./diagrama_bd_hotelbs.png)
+
 [Voltar](../README.md)
